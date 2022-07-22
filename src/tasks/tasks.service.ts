@@ -62,6 +62,6 @@ export class TasksService {
   }
 
   getHello(): string {
-    return 'HEllo';
+    return 'Hello World!';
   }
 }
