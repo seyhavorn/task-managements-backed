@@ -60,4 +60,8 @@ export class TasksService {
     task.status = status;
     return task;
   }
+
+  getHello(): string {
+    return 'HEllo';
+  }
 }
